@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_openai
+langchain-chroma
+langchainhub
+chromadb
+pypdf
+openai
+fastapi
+jinja2
+python-multipart
